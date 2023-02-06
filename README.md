@@ -1,0 +1,1 @@
+# SQLite-Studio-BIT_DB
